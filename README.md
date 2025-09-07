@@ -34,7 +34,7 @@
         <img src=https://github-readme-stats.vercel.app/api?                username=xinoss&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&show_icons=true&icon_color=FFCD61&rank_icon=github&rank_color=000&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xinossr&layout=donut-vertical&bg_color=90,24A3FF,ECA1FF&title_color=fff />
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xinoss&layout=donut-vertical&bg_color=90,24A3FF,ECA1FF&title_color=fff />
     </a>
  </div> 
   
