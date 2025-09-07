@@ -27,7 +27,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
-      [![Contact]([https://skillicons.dev/icons?i=js,html,css,wasm](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg))](https://skillicons.dev) xinoss_
+      [![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg))](https://skillicons.dev) xinoss_
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
