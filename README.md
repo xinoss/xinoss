@@ -31,8 +31,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
-        <a href="www.naver.com">
-        <img src="https://skillicons.dev/icons?i=discord"></a>
+        <img src="https://skillicons.dev/icons?i=discord"> : xinoss_
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
