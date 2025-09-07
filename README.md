@@ -11,8 +11,6 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact Me </h2>
-        <img src="https://skillicons.dev/icons?i=discord" height="18" style="vertical-align:-3px; margin-right:6px;"> : xinoss_
-        <img src="https://skillicons.dev/icons?i=discord" style="height:1em; vertical-align:-0.2em; margin-right:.4em;"> : xinoss_
         <sub><img src="https://skillicons.dev/icons?i=discord" height="18"></sub>&nbsp;: xinoss_
     </div>
     <div style="text-align: left;">
