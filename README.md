@@ -11,7 +11,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact Me </h2>
-        <sub><img src="https://skillicons.dev/icons?i=discord" height="18"></sub>&nbsp;: xinoss_
+        <sub><img src="https://skillicons.dev/icons?i=discord" height="18"></sub>&nbsp;: @xinoss_
+        <sub><img src="https://skillicons.dev/icons?i=telegram" height="18"></sub>&nbsp;: @Xinoss
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
