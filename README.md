@@ -32,7 +32,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      alt="Xinoss GitHub Stats"
+      alt="Xinoss's GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=xinoss&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&show_icons=true&icon_color=FFCD61&rank_icon=github&rank_color=000&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     />
   </a>
