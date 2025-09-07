@@ -33,13 +33,13 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Xinoss GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=xinoss&show_icons=true&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&icon_color=FFCD61&custom_title=Xinoss's%20GitHub%20Stats"
+      src="https://github-readme-stats.vercel.app/api?username=xinoss&show_icons=true&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&icon_color=FFCD61&custom_title=Xinoss's%20GitHub%20Stats&cache_seconds=1"
     />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinoss&layout=donut-vertical&bg_color=90,24A3FF,ECA1FF&title_color=ffffff"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinoss&layout=donut-vertical&bg_color=90,24A3FF,ECA1FF&title_color=ffffff&cache_seconds=1"
     />
   </a>
  </div> 
