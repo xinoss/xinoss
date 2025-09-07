@@ -28,12 +28,6 @@
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-        <img src="https://skillicons.dev/icons?i=discord"> : xinoss_
-    <div align= "center">  </div> 
-    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Xinoss&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinoss&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
