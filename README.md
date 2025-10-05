@@ -11,7 +11,6 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact Me </h2>
-    📩Email : nxor4y@naver.com <br>
     <sub><img src="https://skillicons.dev/icons?i=discord" height="18"></sub>&nbsp;Discord : @xinoss_ <br>
     <sub><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="18"></sub>&nbsp;Telegram : @Xinoss
 </div>
